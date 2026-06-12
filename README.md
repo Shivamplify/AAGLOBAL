@@ -36,11 +36,7 @@ This website is built with a robust, modern technology stack designed for scalab
 - **Google AdSense Ready**: Pre-configured ad slots (Header, Sidebar, In-Article, Footer) with asynchronous loading tags embedded in the `<head>`.
 - **Professional Legal Pages**: Out-of-the-box legally sound Privacy Policy, Terms of Service, and Copyright DMCA Disclaimers protecting the Founder (Shivam Kumar) and the platform's intellectual property.
 
-## 🔑 Admin Access
 
-- **Admin ID / Email:** `Shivamext`
-- **Password:** `#Shivam2002`
-- **Login URL:** Available via the footer link (`/login`).
 
 ## 🛠️ Local Development & Running
 
